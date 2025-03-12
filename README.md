@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @duanepfeiffer
 - 👀 I’m interested in being a software developer for small electric utilities. 
-- 🌱 I’m currently learning Blazor/.Net 6
+- 🌱 I’m currently developing with Blazor/.Net 8 & SwiftUI
 - 💞️ I’m looking to collaborate on multi-speak projects
 - 📫 How to reach me duane.pfeiffer@gmail.com
 
